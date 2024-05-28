@@ -31,6 +31,7 @@ header User-Agent *Aspiegel*
 header User-Agent *Asterias*
 header User-Agent *Atomseobot*
 header User-Agent *Attach*
+header User-Agent *AwarioBot*
 header User-Agent *AwarioRssBot*
 header User-Agent *AwarioSmartBot*
 header User-Agent *BBBike*
@@ -69,6 +70,7 @@ header User-Agent *BuiltWith*
 header User-Agent *Bullseye*
 header User-Agent *BunnySlippers*
 header User-Agent *BuzzSumo*
+header User-Agent *Bytespider*
 header User-Agent *CATExplorador*
 header User-Agent *CCBot*
 header User-Agent *CODE87*
@@ -77,6 +79,7 @@ header User-Agent *Calculon*
 header User-Agent *CazoodleBot*
 header User-Agent *Cegbfeieh*
 header User-Agent *CensysInspect*
+header User-Agent *ChatGPT-User*
 header User-Agent *CheTeam*
 header User-Agent *CheeseBot*
 header User-Agent *CherryPicker*
@@ -161,6 +164,7 @@ header User-Agent *EyeNetIE*
 header User-Agent *Ezooms*
 header User-Agent *FDM*
 header User-Agent *FHscan*
+header User-Agent *FacebookBot*
 header User-Agent *FemtosearchBot*
 header User-Agent *Fimap*
 header User-Agent *Firefox/7.0*
@@ -173,6 +177,7 @@ header User-Agent *Fuzz*
 header User-Agent *FyberSpider*
 header User-Agent *Fyrebot*
 header User-Agent *G-i-g-a-b-o-t*
+header User-Agent *GPTBot*
 header User-Agent *GT::WWW*
 header User-Agent *GalaxyBot*
 header User-Agent *Genieo*
@@ -184,6 +189,7 @@ header User-Agent *Gigabot*
 header User-Agent *Go!Zilla*
 header User-Agent *Go-Ahead-Got-It*
 header User-Agent *GoZilla*
+header User-Agent *Google-Extended*
 header User-Agent *Gotit*
 header User-Agent *GrabNet*
 header User-Agent *Grabber*
@@ -215,13 +221,22 @@ header User-Agent *Image\*
 header User-Agent *Fetch*
 header User-Agent *Image\*
 header User-Agent *Sucker*
+header User-Agent *ImagesiftBot*
 header User-Agent *IndeedBot*
 header User-Agent *Indy\*
 header User-Agent *Library*
 header User-Agent *InfoNaviRobot*
 header User-Agent *InfoTekies*
+header User-Agent *Information\*
+header User-Agent *Security\*
+header User-Agent *Team\*
+header User-Agent *InfraSec\*
+header User-Agent *Scanner*
+header User-Agent *InfraSec\*
+header User-Agent *Scanner*
 header User-Agent *Intelliseek*
 header User-Agent *InterGET*
+header User-Agent *InternetMeasurement*
 header User-Agent *InternetSeer*
 header User-Agent *Internet\*
 header User-Agent *Ninja*
@@ -319,7 +334,7 @@ header User-Agent *Control*
 header User-Agent *Minefield*
 header User-Agent *Mister\*
 header User-Agent *PiX*
-header User-Agent *Moblie*
+header User-Agent *Moblie\*
 header User-Agent *Safari*
 header User-Agent *Mojeek*
 header User-Agent *Mojolicious*
@@ -412,6 +427,7 @@ header User-Agent *QueryN\*
 header User-Agent *Metasearch*
 header User-Agent *Quick-Crawler*
 header User-Agent *RSSingBot*
+header User-Agent *Rainbot*
 header User-Agent *RankActive*
 header User-Agent *RankActiveLinkBot*
 header User-Agent *RankFlex*
@@ -515,6 +531,7 @@ header User-Agent *The\*
 header User-Agent *Intraformant*
 header User-Agent *Thumbor*
 header User-Agent *TightTwatBot*
+header User-Agent *TinyTestBot*
 header User-Agent *Titan*
 header User-Agent *Toata*
 header User-Agent *Toweyabot*
@@ -618,6 +635,7 @@ header User-Agent *Xaldon\*
 header User-Agent *WebSpider*
 header User-Agent *Xaldon_WebSpider*
 header User-Agent *Xenu*
+header User-Agent *YaK*
 header User-Agent *YoudaoBot*
 header User-Agent *Zade*
 header User-Agent *Zauba*
@@ -630,16 +648,19 @@ header User-Agent *ZoominfoBot*
 header User-Agent *ZumBot*
 header User-Agent *ZyBorg*
 header User-Agent *adscanner*
+header User-Agent *anthropic-ai*
 header User-Agent *archive.org_bot*
 header User-Agent *arquivo-web-crawler*
 header User-Agent *arquivo.pt*
 header User-Agent *autoemailspider*
+header User-Agent *awario.com*
 header User-Agent *backlink-check*
 header User-Agent *cah.io.community*
 header User-Agent *check1.exe*
 header User-Agent *clark-crawler*
 header User-Agent *coccocbot*
 header User-Agent *cognitiveseo*
+header User-Agent *cohere-ai*
 header User-Agent *com.plumanalytics*
 header User-Agent *crawl.sogou.com*
 header User-Agent *crawler.feedback*
@@ -653,6 +674,7 @@ header User-Agent *evc-batch*
 header User-Agent *facebookscraper*
 header User-Agent *gopher*
 header User-Agent *heritrix*
+header User-Agent *imagesift.com*
 header User-Agent *instabid*
 header User-Agent *internetVista\*
 header User-Agent *monitor*
@@ -660,6 +682,7 @@ header User-Agent *ips-agent*
 header User-Agent *isitwp.com*
 header User-Agent *iubenda-radar*
 header User-Agent *linkdexbot*
+header User-Agent *linkfluence*
 header User-Agent *lwp-request*
 header User-Agent *lwp-trivial*
 header User-Agent *magpie-crawler*
@@ -670,6 +693,9 @@ header User-Agent *netEstate\*
 header User-Agent *NE\*
 header User-Agent *Crawler*
 header User-Agent *oBot*
+header User-Agent *omgili*
+header User-Agent *openai*
+header User-Agent *openai.com*
 header User-Agent *page\*
 header User-Agent *scorer*
 header User-Agent *pcBrowser*
